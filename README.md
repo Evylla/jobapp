@@ -3,19 +3,6 @@ Job Aplication API
 
 API para cadastro de empresas e oportunidades de empregos abertas nelas, além da possibilidade de adicionar reviews das empresas.
 
-Contact Info: [evyllamaria@gmail.com](evyllamaria@gmail.com)
-
-Version: 1.0
-
-BasePath:/EVYLLAMARIA/jobapp/1.0
-
-All rights reserved
-
-http://apache.org/licenses/LICENSE-2.0.html
-
-Access
-------
-
 Métodos
 -------
 
