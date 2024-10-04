@@ -6,8 +6,6 @@ API para cadastro de empresas e oportunidades de empregos abertas nelas, além d
 Métodos
 -------
 
-\[ Jump to [Models](#__Models) \]
-
 ### Table of Contents
 
 *   [`delete /companies/{id}`](#deleteCompaniesId)
