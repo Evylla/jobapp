@@ -1,7 +1,7 @@
 Job Aplication API
 ==================
 
-API para cadastro de empresas e oportunidades de empregos abertas nelas, além da possibilidade de adicionar reviews das empresas
+API para cadastro de empresas e oportunidades de empregos abertas nelas, além da possibilidade de adicionar reviews das empresas.
 
 Contact Info: [evyllamaria@gmail.com](evyllamaria@gmail.com)
 
@@ -16,14 +16,12 @@ http://apache.org/licenses/LICENSE-2.0.html
 Access
 ------
 
-Methods
+Métodos
 -------
 
 \[ Jump to [Models](#__Models) \]
 
 ### Table of Contents
-
-#### [Default](#Default)
 
 *   [`delete /companies/{id}`](#deleteCompaniesId)
 *   [`delete /jobs/{id}`](#deleteJobsId)
