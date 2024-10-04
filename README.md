@@ -253,7 +253,8 @@ body [object](#object) (optional)
 
 Body Parameter —
 
-example: ```.json
+example:
+```bash
     Body Parameter —
         example: {
           "value" : {
