@@ -44,7 +44,6 @@ Methods
 Default
 =======
 
-[Up](#__Methods)
 
     delete /companies/{id}
 
@@ -70,7 +69,6 @@ Not Found[](#)
 
 * * *
 
-[Up](#__Methods)
 
     delete /jobs/{id}
 
@@ -96,7 +94,6 @@ Not Found[](#)
 
 * * *
 
-[Up](#__Methods)
 
     delete /reviews/{id}
 
@@ -122,7 +119,6 @@ Not Found[](#)
 
 * * *
 
-[Up](#__Methods)
 
     get /companies
 
@@ -142,7 +138,6 @@ Not Found[](#)
 
 * * *
 
-[Up](#__Methods)
 
     get /companies/{id}
 
@@ -168,7 +163,6 @@ Not Found[](#)
 
 * * *
 
-[Up](#__Methods)
 
     get /jobs
 
@@ -188,7 +182,6 @@ Not Found[](#)
 
 * * *
 
-[Up](#__Methods)
 
     get /jobs/{id}
 
@@ -214,7 +207,6 @@ Not Found[](#)
 
 * * *
 
-[Up](#__Methods)
 
     get /reviews
 
@@ -234,7 +226,6 @@ Not Found[](#)
 
 * * *
 
-[Up](#__Methods)
 
     get /reviews/{id}
 
@@ -260,7 +251,6 @@ Not Found[](#)
 
 * * *
 
-[Up](#__Methods)
 
     post /companies
 
@@ -294,7 +284,6 @@ Not Found[](#)
 
 * * *
 
-[Up](#__Methods)
 
     post /jobs
 
@@ -328,7 +317,6 @@ Not Found[](#)
 
 * * *
 
-[Up](#__Methods)
 
     post /reviews
 
@@ -362,7 +350,6 @@ Not Found[](#)
 
 * * *
 
-[Up](#__Methods)
 
     put /companies/{id}
 
@@ -402,7 +389,6 @@ Not Found[](#)
 
 * * *
 
-[Up](#__Methods)
 
     put /jobs/{id}
 
@@ -442,7 +428,6 @@ Not Found[](#)
 
 * * *
 
-[Up](#__Methods)
 
     put /reviews/{id}
 
