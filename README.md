@@ -507,12 +507,3 @@ OK[](#)
 #### 404
 
 Not Found[](#)
-
-* * *
-
-Models
-------
-
-\[ Jump to [Methods](#__Methods) \]
-
-### Table of Contents
