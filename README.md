@@ -253,7 +253,15 @@ body [object](#object) (optional)
 
 Body Parameter —
 
-example: `{ "value" : { "name" : "Company two", "description" : "Test description" } }`
+example: `
+    Body Parameter —
+        example: {
+          "value" : {
+            "name" : "Company two",
+            "description" : "Test description"
+          }
+        }
+`
 
 ### Responses
 
@@ -286,7 +294,21 @@ body [object](#object) (optional)
 
 Body Parameter —
 
-example: `{ "value" : { "title" : "Software Engineer 1", "description" : "Test description", "minSalary" : "30000", "maxSalary" : "40000", "location" : "São Paulo", "company" : { "id" : 2 } } }`
+example: `
+    Body Parameter —
+        example: {
+          "value" : {
+            "title" : "Software Engineer 1",
+            "description" : "Test description",
+            "minSalary" : "30000",
+            "maxSalary" : "40000",
+            "location" : "São Paulo",
+            "company" : {
+              "id" : 2
+            }
+          }
+        }
+`
 
 ### Responses
 
@@ -319,7 +341,16 @@ body [object](#object) (optional)
 
 Body Parameter —
 
-example: `{ "value" : { "title" : "Review 1", "description" : "description 3", "rating" : 5 } }`
+example: `
+    Body Parameter —
+        example: {
+          "value" : {
+            "title" : "Review 1",
+            "description" : "description 3",
+            "rating" : 5
+          }
+        }
+`
 
 ### Responses
 
@@ -358,7 +389,15 @@ body [object](#object) (optional)
 
 Body Parameter —
 
-example: `{ "value" : { "name" : "Company ONE UPDATED", "description" : "Test description" } }`
+example: `
+    Body Parameter —
+        example: {
+          "value" : {
+            "name" : "Company ONE UPDATED",
+            "description" : "Test description"
+          }
+        }
+`
 
 ### Responses
 
@@ -397,7 +436,19 @@ body [object](#object) (optional)
 
 Body Parameter —
 
-example: `{ "value" : { "id" : 1, "title" : "Software Engineer Updated", "description" : "Test description", "minSalary" : "30000", "maxSalary" : "40000", "location" : "São Paulo" } }`
+example: `
+    Body Parameter —
+        example: {
+          "value" : {
+            "id" : 1,
+            "title" : "Software Engineer Updated",
+            "description" : "Test description",
+            "minSalary" : "30000",
+            "maxSalary" : "40000",
+            "location" : "São Paulo"
+          }
+        }
+`
 
 ### Responses
 
@@ -436,7 +487,16 @@ body [object](#object) (optional)
 
 Body Parameter —
 
-example: `{ "value" : { "title" : "Review 2 UPDATED", "description" : "description 2 UPDATED", "rating" : 7 } }`
+example: `
+    Body Parameter —
+        example: {
+          "value" : {
+            "title" : "Review 2 UPDATED",
+            "description" : "description 2 UPDATED",
+            "rating" : 7
+          }
+        }
+`
 
 ### Responses
 
