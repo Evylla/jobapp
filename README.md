@@ -253,7 +253,7 @@ body [object](#object) (optional)
 
 Body Parameter —
 
-example: `
+example: ```.json
     Body Parameter —
         example: {
           "value" : {
@@ -261,7 +261,7 @@ example: `
             "description" : "Test description"
           }
         }
-`
+```
 
 ### Responses
 
